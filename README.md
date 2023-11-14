@@ -72,7 +72,7 @@ This function will send a message template to a number. It received the target p
 
 The solution also contains a SimpleRESTHost to receive messages from the WhatsAppWebhook. You can follow configuration for the webhook [here](https://developers.facebook.com/docs/whatsapp/cloud-api/get-started#configure-webhooks) - note that you do not need to do step 5. Please note that you need to subscribe to receive messages in the Webhook fields. 
 
-The  
+Documentation on how the webhook works can be found [here](https://developers.facebook.com/docs/graph-api/webhooks/getting-started#verification-requests)
 
 #### Webhooks_Validate 
 
