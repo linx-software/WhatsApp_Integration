@@ -1,0 +1,31 @@
+{
+  "Id": "DLL6",
+  "Name": "Body_Interactive",
+  "Properties": [
+    {
+      "Id": "RXb8",
+      "Name": "recipient_type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "qNOS",
+      "Name": "to",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "MPaD",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "9w5m",
+      "Name": "interactive",
+      "Type": "Custom:OcZH"
+    },
+    {
+      "Id": "NHID",
+      "Name": "messaging_product",
+      "Type": "Compiled:String"
+    }
+  ]
+}

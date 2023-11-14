@@ -1,0 +1,16 @@
+{
+  "Id": "lTks",
+  "Name": "Body_Interactive_interactive_action_buttons",
+  "Properties": [
+    {
+      "Id": "Xe1o",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "nB3M",
+      "Name": "reply",
+      "Type": "Custom:5yiS"
+    }
+  ]
+}

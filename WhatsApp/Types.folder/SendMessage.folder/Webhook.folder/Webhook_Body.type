@@ -1,0 +1,16 @@
+{
+  "Id": "X6pv",
+  "Name": "Webhook_Body",
+  "Properties": [
+    {
+      "Id": "Wd9p",
+      "Name": "object",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "3xoy",
+      "Name": "entry",
+      "Type": "List:Custom:SgKJ"
+    }
+  ]
+}

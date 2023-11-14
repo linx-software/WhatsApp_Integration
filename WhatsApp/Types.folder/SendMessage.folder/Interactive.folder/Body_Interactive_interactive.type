@@ -1,0 +1,31 @@
+{
+  "Id": "OcZH",
+  "Name": "Body_Interactive_interactive",
+  "Properties": [
+    {
+      "Id": "8vz8",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "lbZk",
+      "Name": "header",
+      "Type": "Custom:v2bZ"
+    },
+    {
+      "Id": "CxMq",
+      "Name": "body",
+      "Type": "Custom:MCVV"
+    },
+    {
+      "Id": "VGkQ",
+      "Name": "footer",
+      "Type": "Custom:v2bZ"
+    },
+    {
+      "Id": "nSLu",
+      "Name": "action",
+      "Type": "Custom:2YGa"
+    }
+  ]
+}

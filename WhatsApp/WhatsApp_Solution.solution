@@ -1,0 +1,21 @@
+{
+  "ApplicationVersion": "6.6.5",
+  "SolutionVersion": 7,
+  "Plugins": [
+    "twenty57.linx.plugins.database, 3.0.0",
+    "twenty57.linx.plugins.rest, 2.1.0",
+    "twenty57.linx.plugins.standard, 1.1.0",
+    "twenty57.linx.plugins.utilities, 1.1.0"
+  ],
+  "Dependencies": [
+    "twenty57.linx.solutiondependencies.compilation, 2.2.0",
+    "twenty57.linx.solutiondependencies.types, 1.3.1"
+  ],
+  "Items": [
+    "SendMessage_Interactive.function",
+    "Types.folder",
+    "SendMessage_Text.function",
+    "SendMessage_Template.function",
+    "SimpleRESTHost.service"
+  ]
+}

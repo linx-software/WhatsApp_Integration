@@ -1,0 +1,16 @@
+{
+  "Id": "3dNB",
+  "Name": "Body_Template_template",
+  "Properties": [
+    {
+      "Id": "lbxZ",
+      "Name": "name",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "q28X",
+      "Name": "language",
+      "Type": "Custom:W89F"
+    }
+  ]
+}

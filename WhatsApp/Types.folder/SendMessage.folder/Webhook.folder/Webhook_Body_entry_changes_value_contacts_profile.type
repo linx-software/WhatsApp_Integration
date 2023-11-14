@@ -1,0 +1,11 @@
+{
+  "Id": "m72u",
+  "Name": "Webhook_Body_entry_changes_value_contacts_profile",
+  "Properties": [
+    {
+      "Id": "Zi3o",
+      "Name": "name",
+      "Type": "Compiled:String"
+    }
+  ]
+}

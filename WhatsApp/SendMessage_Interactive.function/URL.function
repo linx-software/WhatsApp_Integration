@@ -1,0 +1,16 @@
+{
+  "Properties": [
+    {
+      "Id": "Value",
+      "Type": "Compiled:String",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "\"https://graph.facebook.com/v17.0/\"+ $.Settings.PhoneNumber_ID+\"/messages\"",
+        "CompiledExpression": "=\"https://graph.facebook.com/v17.0/\"+{0}+\"/messages\"",
+        "Type": "Compiled:String"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "Result": "Compiled:String"
+}

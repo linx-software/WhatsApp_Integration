@@ -1,0 +1,16 @@
+{
+  "Id": "SgKJ",
+  "Name": "Webhook_Body_entry",
+  "Properties": [
+    {
+      "Id": "RP6b",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4GBN",
+      "Name": "changes",
+      "Type": "List:Custom:iwuu"
+    }
+  ]
+}

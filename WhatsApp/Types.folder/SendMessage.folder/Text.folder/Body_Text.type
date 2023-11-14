@@ -1,0 +1,26 @@
+{
+  "Id": "lITl",
+  "Name": "Body_Text",
+  "Properties": [
+    {
+      "Id": "GFJY",
+      "Name": "messaging_product",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "TjQE",
+      "Name": "to",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xeAY",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "curd",
+      "Name": "text",
+      "Type": "Custom:DxO1"
+    }
+  ]
+}

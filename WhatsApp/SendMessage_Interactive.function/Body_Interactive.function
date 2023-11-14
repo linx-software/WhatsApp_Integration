@@ -1,0 +1,33 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:DLL6",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:DLL6",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"recipient_type\":\"individual\", \"to\":{\"LinxExpression\":\"[PARSED]\"}, \"type\":\"interactive\", \"interactive\":{\"type\":\"button\", \"body\":{\"text\":\"This is a test\"}, \"action\":{\"buttons\":[{\"type\":\"reply\", \"reply\":{\"id\":\"AAAAAA\", \"title\":\"Option 1\"}},{\"type\":\"reply\", \"reply\":{\"id\":\"BBBB\", \"title\":\"Option 2\"}}]}}, \"messaging_product\":\"whatsapp\"}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "to"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.PhoneNumber",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "Result": "Custom:DLL6"
+}

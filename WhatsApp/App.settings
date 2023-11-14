@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "8bTD",
+    "Name": "PhoneNumber_ID",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "5ho6",
+    "Name": "Token",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "Ol3Q",
+    "Name": "REST_BASE_URL",
+    "Type": "Compiled:String",
+    "Value": "https://+:8080/"
+  },
+  {
+    "Id": "6A3u",
+    "Name": "Webhook_Verification_Token",
+    "Type": "Compiled:String",
+    "Secret": true
+  },
+  {
+    "Id": "fzEC",
+    "Name": "Database_Connection",
+    "Type": "Compiled:String",
+    "Secret": true
+  }
+]

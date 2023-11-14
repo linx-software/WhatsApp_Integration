@@ -1,0 +1,16 @@
+{
+  "Id": "i3FV",
+  "Name": "Webhook_Body_entry_changes_value_contacts",
+  "Properties": [
+    {
+      "Id": "rMtA",
+      "Name": "profile",
+      "Type": "Custom:m72u"
+    },
+    {
+      "Id": "0hhw",
+      "Name": "wa_id",
+      "Type": "Compiled:String"
+    }
+  ]
+}

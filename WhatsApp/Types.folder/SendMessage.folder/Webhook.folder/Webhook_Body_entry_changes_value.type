@@ -1,0 +1,26 @@
+{
+  "Id": "R7Jm",
+  "Name": "Webhook_Body_entry_changes_value",
+  "Properties": [
+    {
+      "Id": "1Sma",
+      "Name": "messaging_product",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "dmP6",
+      "Name": "metadata",
+      "Type": "Custom:efzE"
+    },
+    {
+      "Id": "jMwp",
+      "Name": "contacts",
+      "Type": "List:Custom:i3FV"
+    },
+    {
+      "Id": "z8fm",
+      "Name": "messages",
+      "Type": "List:Custom:bh8M"
+    }
+  ]
+}

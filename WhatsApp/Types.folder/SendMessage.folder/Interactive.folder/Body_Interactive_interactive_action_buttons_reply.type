@@ -1,0 +1,16 @@
+{
+  "Id": "5yiS",
+  "Name": "Body_Interactive_interactive_action_buttons_reply",
+  "Properties": [
+    {
+      "Id": "GHie",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "xa7K",
+      "Name": "title",
+      "Type": "Compiled:String"
+    }
+  ]
+}

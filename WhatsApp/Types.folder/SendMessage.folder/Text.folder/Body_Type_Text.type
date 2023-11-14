@@ -1,0 +1,11 @@
+{
+  "Id": "DxO1",
+  "Name": "Body_Type_Text",
+  "Properties": [
+    {
+      "Id": "CqlR",
+      "Name": "body",
+      "Type": "Compiled:String"
+    }
+  ]
+}

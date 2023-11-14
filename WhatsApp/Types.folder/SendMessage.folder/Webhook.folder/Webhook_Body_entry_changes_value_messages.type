@@ -1,0 +1,31 @@
+{
+  "Id": "bh8M",
+  "Name": "Webhook_Body_entry_changes_value_messages",
+  "Properties": [
+    {
+      "Id": "e8s0",
+      "Name": "from",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "zTMq",
+      "Name": "id",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "oBE9",
+      "Name": "timestamp",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "Pmfb",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "4otK",
+      "Name": "text",
+      "Type": "Custom:wFqc"
+    }
+  ]
+}

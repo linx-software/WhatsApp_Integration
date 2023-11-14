@@ -1,0 +1,16 @@
+{
+  "Id": "efzE",
+  "Name": "Webhook_Body_entry_changes_value_metadata",
+  "Properties": [
+    {
+      "Id": "tX4S",
+      "Name": "display_phone_number",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mcQI",
+      "Name": "phone_number_id",
+      "Type": "Compiled:String"
+    }
+  ]
+}

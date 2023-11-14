@@ -1,0 +1,234 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "5aRI",
+      "Properties": [
+        {
+          "Id": "object",
+          "Name": "object",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "entry",
+          "Name": "entry",
+          "Type": "List:Generated:MVco",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "MVco",
+      "Properties": [
+        {
+          "Id": "id",
+          "Name": "id",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "changes",
+          "Name": "changes",
+          "Type": "List:Generated:HqXI",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "HqXI",
+      "Properties": [
+        {
+          "Id": "field",
+          "Name": "field",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "value",
+          "Name": "value",
+          "Type": "Generated:mwhz",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "mwhz",
+      "Properties": [
+        {
+          "Id": "messaging_product",
+          "Name": "messaging_product",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "metadata",
+          "Name": "metadata",
+          "Type": "Generated:ULjP",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "contacts",
+          "Name": "contacts",
+          "Type": "List:Generated:vPqd",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "messages",
+          "Name": "messages",
+          "Type": "List:Generated:klYk",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "ULjP",
+      "Properties": [
+        {
+          "Id": "display_phone_number",
+          "Name": "display_phone_number",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "phone_number_id",
+          "Name": "phone_number_id",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "vPqd",
+      "Properties": [
+        {
+          "Id": "profile",
+          "Name": "profile",
+          "Type": "Generated:NikW",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "wa_id",
+          "Name": "wa_id",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "NikW",
+      "Properties": [
+        {
+          "Id": "name",
+          "Name": "name",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "klYk",
+      "Properties": [
+        {
+          "Id": "from",
+          "Name": "from",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "id",
+          "Name": "id",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "timestamp",
+          "Name": "timestamp",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "type",
+          "Name": "type",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "text",
+          "Name": "text",
+          "Type": "Generated:KDxT",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "KDxT",
+      "Properties": [
+        {
+          "Id": "body",
+          "Name": "body",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "Z2y2",
+      "Properties": [
+        {
+          "Id": "HttpContext",
+          "Name": "HttpContext",
+          "Type": "Compiled:Twenty57.Linx.Plugins.Rest.WebServiceWithDefinitionEditor.OpenAPI.Data.Out.HttpContext, Twenty57.Linx.Plugins.Rest, Version=2.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "ob8F",
+      "Properties": [
+        {
+          "Id": "HttpContext",
+          "Name": "HttpContext",
+          "Type": "Compiled:Twenty57.Linx.Plugins.Rest.WebServiceWithDefinitionEditor.OpenAPI.Data.Out.HttpContext, Twenty57.Linx.Plugins.Rest, Version=2.1.0.0, Culture=neutral, PublicKeyToken=null",
+          "Access": "ReadWrite"
+        },
+        {
+          "Id": "ResponseBody",
+          "Name": "ResponseBody",
+          "Type": "Compiled:Int64",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Generated:klYk",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEach_Changes.Loop.value.messages",
+        "CompiledExpression": "={0}",
+        "Type": "List:Generated:klYk"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Generated:klYk",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore",
+      "ConstitutesControlFlow": true
+    }
+  ]
+}

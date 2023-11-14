@@ -1,0 +1,25 @@
+{
+  "Properties": [
+    {
+      "Id": "List",
+      "Type": "List:Generated:HqXI",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "Expression": "ForEach_entity.Loop.changes",
+        "CompiledExpression": "={0}",
+        "Type": "List:Generated:HqXI"
+      },
+      "ValueType": "Linx.CSharpExpression"
+    }
+  ],
+  "ExecutionPaths": [
+    {
+      "PluginId": "Loop",
+      "Name": "Loop",
+      "Result": "List:Generated:HqXI",
+      "Order": 0,
+      "IterationHint": "ZeroOrMore",
+      "ConstitutesControlFlow": true
+    }
+  ]
+}

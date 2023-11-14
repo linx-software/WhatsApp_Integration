@@ -1,0 +1,16 @@
+[
+  {
+    "Type": "Generated",
+    "Value": {
+      "Id": "qf5j",
+      "Properties": [
+        {
+          "Id": "FuqI",
+          "Name": "PhoneNumber",
+          "Type": "Compiled:String",
+          "Access": "ReadWrite"
+        }
+      ]
+    }
+  }
+]

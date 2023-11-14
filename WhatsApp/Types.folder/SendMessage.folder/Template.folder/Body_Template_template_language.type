@@ -1,0 +1,11 @@
+{
+  "Id": "W89F",
+  "Name": "Body_Template_template_language",
+  "Properties": [
+    {
+      "Id": "sz48",
+      "Name": "code",
+      "Type": "Compiled:String"
+    }
+  ]
+}

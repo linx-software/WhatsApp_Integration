@@ -1,0 +1,11 @@
+{
+  "Id": "MCVV",
+  "Name": "Body_Interactive_interactive_body",
+  "Properties": [
+    {
+      "Id": "n45o",
+      "Name": "text",
+      "Type": "Compiled:String"
+    }
+  ]
+}

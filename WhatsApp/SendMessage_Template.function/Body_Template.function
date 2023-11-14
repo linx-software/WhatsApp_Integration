@@ -1,0 +1,33 @@
+{
+  "Properties": [
+    {
+      "Id": "Type",
+      "Type": "Compiled:Linx.ITypeReference",
+      "ValueUsage": "DesignTime",
+      "Value": "Custom:gf3b",
+      "ValueType": "Linx.ValidCustomTypeReference"
+    },
+    {
+      "Id": "Value",
+      "Type": "Custom:gf3b",
+      "ValueUsage": "RuntimeRead",
+      "Value": {
+        "ParsedExpression": "{\"messaging_product\":\"whatsapp\", \"to\":{\"LinxExpression\":\"[PARSED]\"}, \"type\":\"template\", \"template\":{\"name\":\"hello_world\", \"language\":{\"code\":\"en_US\"}}}",
+        "ExpressionPlaceholders": [
+          {
+            "typePath": [
+              "to"
+            ],
+            "expression": {
+              "Expression": "$.Parameters.PhoneNumber",
+              "CompiledExpression": "={0}",
+              "Type": "Compiled:String"
+            }
+          }
+        ]
+      },
+      "ValueType": "Linx.JsonExpression"
+    }
+  ],
+  "Result": "Custom:gf3b"
+}

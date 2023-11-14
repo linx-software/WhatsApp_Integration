@@ -1,0 +1,16 @@
+{
+  "Id": "iwuu",
+  "Name": "Webhook_Body_entry_changes",
+  "Properties": [
+    {
+      "Id": "jMPy",
+      "Name": "field",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "u3Sa",
+      "Name": "value",
+      "Type": "Custom:R7Jm"
+    }
+  ]
+}

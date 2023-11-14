@@ -1,0 +1,26 @@
+{
+  "Id": "gf3b",
+  "Name": "Body_Template",
+  "Properties": [
+    {
+      "Id": "p1Jn",
+      "Name": "messaging_product",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "mgQR",
+      "Name": "to",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "1Cxw",
+      "Name": "type",
+      "Type": "Compiled:String"
+    },
+    {
+      "Id": "R1He",
+      "Name": "template",
+      "Type": "Custom:3dNB"
+    }
+  ]
+}

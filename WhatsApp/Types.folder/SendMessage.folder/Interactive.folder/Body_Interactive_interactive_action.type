@@ -1,0 +1,11 @@
+{
+  "Id": "2YGa",
+  "Name": "Body_Interactive_interactive_action",
+  "Properties": [
+    {
+      "Id": "Zvx7",
+      "Name": "buttons",
+      "Type": "List:Custom:lTks"
+    }
+  ]
+}
