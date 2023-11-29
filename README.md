@@ -12,7 +12,7 @@ You can download this sample and manipulate it to suit your integration using [L
 
 ## Installation 
 
-This is a Linx 6 solution, so you will need an installed version of the [Linx 6 designer](https://linx.software/) to work on this solution and to add in your own logic.  
+This is a Linx 6 solution, so you will need an installed version of the [Linx 6 designer](https://linx.software/linx-download/) to work on this solution and to add in your own logic.  
 
 You will also need to have a Linx Server to host the REST host in order to receive the messages from the WhatsAppwebhook. Details below. 
 
